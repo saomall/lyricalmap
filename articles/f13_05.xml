@@ -50,7 +50,7 @@
          
          <div type="bibliography">
             <listBibl><!-- At least one of your citations should be for the object(s) your are writing about -->
-               <bibl><ref type="url" target="http://heinonline.org/HOL/Print?collection=journals&handle=hein.journals/lla34&id=713"> Hein Online </ref>Benson, Robert W. “Changing Police Culture: The Sin Qua Non of Reform.” HeinOnline (2000) Retrieved from on October 29, 2013</bibl>
+               <bibl><ref type="url" target="http://heinonline.org/HOL/Print?collection=journals&amp;handle=hein.journals/lla34&amp;id=713"> Hein Online </ref>Benson, Robert W. “Changing Police Culture: The Sin Qua Non of Reform.” HeinOnline (2000) Retrieved from on October 29, 2013</bibl>
                <bibl>[Citation 2...]</bibl>
             </listBibl>
          </div>
