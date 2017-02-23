@@ -49,7 +49,7 @@
          
          <div type="bibliography">
             <listBibl><!-- At least one of your citations should be for the object(s) your are writing about -->
-               <bibl>Bon, Lauren, and Metabolic Studio. Los Angeles Aqueduct Digital Platform. UCLA Library Special Collections, 5 Nov. 2013.<ref> type="url" target="http://digital.library.ucla.edu/aqueduct/"> Web. </ref></bibl>
+               <bibl>Bon, Lauren, and Metabolic Studio. Los Angeles Aqueduct Digital Platform. UCLA Library Special Collections, 5 Nov. 2013.<ref type="url" target="http://digital.library.ucla.edu/aqueduct/"> Web. </ref></bibl>
             </listBibl>
          </div>
          
