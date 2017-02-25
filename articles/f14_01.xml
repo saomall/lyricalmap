@@ -46,7 +46,7 @@
         <back>
             
             <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-                <placeName type="artsandculture">Jean Renior’s Career in Film, Beverly Hills</placeName>
+                <placeName type="arts and culture">Jean Renior’s Career in Film, Beverly Hills</placeName>
                 <geo>-118.4003563 34.0736204</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
                 <p>Jean Renoir is a name that may not sound familiar to our generation, but during the early 1900’s, he served as a very prominent figure in cinema. Renoir was a Frenchmen, born in the Montmartre section of Paris. Renoir complemented his early love for art by writing poetry, and proceeded to earn a degree from the University of Aix-en-Province in 1913. He joined the nation's cavalry for World War I, but was quickly put out of commission because of a bullet injury to his leg.</p>
             </note>
