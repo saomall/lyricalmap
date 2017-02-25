@@ -42,7 +42,7 @@
         <back>
             
             <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-                <placeName type="artsandculture">Downtown Los Angeles</placeName>
+                <placeName type="arts and culture">Downtown Los Angeles</placeName>
                 <geo>-118.2485157251358 34.04187626901644</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
                 <p>The technological advances of the 20th and 21st century have made paper maps as common as sending letters through the mail. Nowadays, such maps are losing significance and value, as they once possessed, shown by the decline of their usage. One company continues this vast tradition through an artistic lens: Unique Media Inc. produces artistic maps with three-dimensional representations of anything from parts of cities to continents. In 1984, they produced this map of downtown Los Angeles. The map focuses on the major buildings and attractions in the downtown area, including descriptions for tourists and residents alike. The unique information that it provides serves as one of the greatest tourist guides to downtown Los Angeles ever printed on one sheet of paper.</p>
             </note>
