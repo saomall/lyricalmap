@@ -44,7 +44,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="artsandculture">La Brea Tar Pits, La Brea Tar Pits</placeName>
+            <placeName type="arts and culture">La Brea Tar Pits, La Brea Tar Pits</placeName>
             <geo>-118.35543369999999 34.0637876</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>This postcard portrays the elephant remains that were found in Pit 9 at the La Brea Tar pits. Cracks in the earth allowed hydrogen sulfide, methane gas, and liquid asphalt to seep into the pits; remains started to deteriorate because of water from a natural spring that came in contact with the asphalt (McNassor 9 and 33).</p>
          </note>
