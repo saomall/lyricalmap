@@ -9,7 +9,7 @@
             <title>The Santa Monica Pier</title>
             <author>Zixuan Fan</author>
             <author>Etienne Leroux</author>
-            <author>Annonymous</author>
+            <author>Anonymous</author>
          </titleStmt>
          <publicationStmt>
             <publisher>Colleen Jaurretche</publisher>
@@ -47,7 +47,7 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="history">The Santa Monica Pier, Santa Monica</placeName>
-            <geo>[-118.49760370000001 34.0092419]</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <geo>-118.49760370000001 34.0092419</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>This artifact is a booklet depicting a plan set forth by an unofficial organization to restore the Santa Monica Pier.  The pages of this booklet describe each alteration to the pier accompanied by an artistic drawing.  The context of the pier’s need for renewal dates back to its poor construction in the early 1900s as well as its original purpose.  The Santa Monica community sought to create a recreational area of which reflects the cultural diversity of the Los Angeles community.</p>
          </note>
          
