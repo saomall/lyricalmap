@@ -7,7 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title>Skid Row</title>
-            <author>Annonymous</author>
+            <author>Anonymous</author>
          </titleStmt>
          <publicationStmt>
             <publisher>Colleen Jaurretche</publisher>
@@ -44,7 +44,7 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="neighborhoods">Skid Row</placeName>
-            <geo>[-118.24242909999998 34.043925]</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <geo>-118.24242909999998 34.043925</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>The document, “Preventive Social Casework: Finding Skid Row-like People,” includes different programs to improve the overall condition in Los Angeles Skid Row for the successful proceeding of the Central City Development plan. According to the document, unless the potential investors of Central City were guaranteed that Skid Row’s poverty would not contaminate the redeveloped Central City area, the redevolopment plan could hardly proceed. The item presented not a detailed plan but several suggestions to improve service, detox, and housing and health aspects of Skid Row. The goal of these suggestions, according to the article, is to “ reduce, contain and eventually eliminate Skid Row”.</p>
          </note>
          
