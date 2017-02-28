@@ -51,7 +51,7 @@
          <div type="bibliography">
             <listBibl><!-- At least one of your citations should be for the object(s) your are writing about -->
                <bibl>Girvigian, Raymond. Los Angeles Memorial Coliseum: a nomination for registration a as California State Historical Landmark. Sacramento: American Institute of Architects for California, 1984.</bibl>
-               <bibl>“The Coliseum History.” Welcome to the LAMC &amp; SA. LACC, 2009. 03 March 2014. <ref type="url" target="http://www.lacoliseumlive.com/joomla/index.php?option=com_content&view=article&id=60&Itemid=69"> LA Coliseum Live </ref> </bibl>
+               <bibl>“The Coliseum History.” Welcome to the LAMC &amp; SA. LACC, 2009. 03 March 2014. <ref type="url" target="http://www.lacoliseumlive.com/joomla/index.php?option=com_content&amp;view=article&amp;id=60&amp;Itemid=69"> LA Coliseum Live </ref> </bibl>
             </listBibl>
          </div>
          
