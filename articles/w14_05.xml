@@ -7,7 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title>Rodia’s Towers: Icons of Watts</title>
-            <author>Annonymous</author>
+            <author>Anonymous</author>
          </titleStmt>
          <publicationStmt>
             <publisher>Colleen Jaurretche</publisher>
@@ -49,7 +49,7 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="arts and culture">Rodia’s Towers: Icons of Watts, Watts Towers</placeName>
-            <geo>[-118.24193309999998 33.9388394]</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <geo>-118.24193309999998 33.9388394</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Westways’ article “Rodia’s Towering Dream” offers insight into the mind of the Italian immigrant Simon Rodia along with perhaps one of the greatest contributions to the cultural landscape of L.A. – his fabled Watts Towers. Simon Rodia was born in Rivato, Italy on February 12, 1879, and laid to rest at the age of 86 on July 17, 1965. Known by Sam or Simon today, Rodia was actually born as Sabato Rodia; however, the name Simon is, in fact a misnomer that the public acquired from an LA Times article published in 1937 that failed to provide his correct name. Within the publication, the reporter even referred to Rodia as “Simon Rodilla”. While there was controversy with his name, Rodia still came to be known as the man with a thirty-year obsession, which would culminate in the completion of the Watts Towers (Burgess).</p>
          </note>
          
