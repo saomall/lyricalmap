@@ -7,7 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title>A Stadium of Crushed Dreams</title>
-            <author>Annonymous</author>
+            <author>Anonymous</author>
          </titleStmt>
          <publicationStmt>
             <publisher>Colleen Jaurretche</publisher>
@@ -43,7 +43,7 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="architecture and urban planning">A Stadium of Crushed Dreams, Dodger Stadium</placeName>
-            <geo>[-118.23995830000001 34.073851]</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <geo>-118.23995830000001 34.073851</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>The artifact is a letter written by Los Angeles Councilman Edward Roybal in response to the complaint of Mrs. Bell, a Los Angeles citizen. The focus is on the fourth to last paragraph where Councilman Roybal expresses his position on the issue. Roybal articulates that he concurs with Mrs. Bell’s opposition of the building of Dodger Stadium on the once inhabited Chavez Ravine. He discusses the immorality and illegality of taking land that was originally intended to be used for public good and instead selling it as private enterprise to Major League Baseball.</p>
          </note>
          
