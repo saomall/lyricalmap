@@ -43,7 +43,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="architectureandurbanplanning">The Los Angeles Memorial Coliseum, Downtown Los Angeles</placeName>
+            <placeName type="architecture and urbanplanning">The Los Angeles Memorial Coliseum, Downtown Los Angeles</placeName>
             <geo>-118.28807999999998 34.01391949999999</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>The artifact we chose from the Special Collections materials offered is a photograph of a National Football League game between the Los Angeles Rams and the Chicago Bears in 1947. The photograph shows a player running with the football and an opponent chasing him. Simultaneously, his teammate in front is running forwards, trying to avoid a defender. Behind the action on the field, there are stands for the audience. In addition, there are arches, each with a flag, that converge into a structure that supports the clock and scoreboard. The area in front of the arches is decorated with patches of well-trimmed grass. The field’s arches make it evident that the football stadium in the photograph is the Los Angeles Memorial Coliseum, because the arches are identical with the ones that distinguish the Coliseum from all other venues; however, compared to other venues in Los Angeles, the city is especially invested in the establishment and use of the Coliseum.</p>
          </note>
