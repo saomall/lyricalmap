@@ -47,7 +47,7 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="environment and science">The Science of Oriental Medicine, Downtown Los Angeles</placeName>
-            <geo>[-118.25829390000001 34.0436746]</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <geo>-118.25829390000001 34.0436746</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>The subject of health is always interesting and is uppermost in the thoughts of many people. Within the pages of The Foo and Wing Herb Company’s book entitled The Science of Oriental Medicine, the reader will find several thought-provoking articles. These articles are suggestions for health and the care of the body derived from principles underlying the oriental system of medicine, as practiced in China. The old adage that "an ounce of prevention is worth a pound of cure” fittingly illustrates Dr. Li Wing’s philosophy of the preservation of mental and bodily vigor throughout the novel.</p>
          </note>
          
