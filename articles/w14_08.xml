@@ -45,7 +45,7 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="architecture and urban planning">The Hollywood Plaza Hotel, Hollywood</placeName>
-            <geo>[-118.32706350000001 34.1009204]</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <geo>-118.32706350000001 34.1009204</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>The Hollywood Plaza Hotel was once one of Hollywood’s glamorous establishments, “once” because, it no longer exists. This is not to say that all traces of the hotel have gone. A pamphlet remains. This pamphlet contains factual information expressed through advertising methods as well as an introduction to the attractive features of the hotel.</p>
          </note>
          
