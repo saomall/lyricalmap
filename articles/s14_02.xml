@@ -7,7 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title>Works Progress Administration: A Snap of History</title>
-            <author>Annonymous</author>
+            <author>Anonymous</author>
          </titleStmt>
          <publicationStmt>
             <publisher>Colleen Jaurretche</publisher>
@@ -47,8 +47,8 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="politics and society">Works Progress Administration: A Snap of History, [Placename]</placeName>
-            <geo>[-117.2712717 32.8328112]</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <placeName type="politics and society">Works Progress Administration: A Snap of History, WPA Toy Loan Library</placeName>
+            <geo>-118.24945309999998 34.03445749999999</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Through the power of imagery, the photos illustrated on the Los Angeles Daily News help tell the effectiveness and the importance of the Works Progress Administration as it attempted to stimulate the broken economy through federal work relief programs. Women and children, in particular, were strong beneficiaries of the program as they were provided opportunities to improve their situation through work and services like the Toy Loan libraries. Unfortunately, some programs would fall short of their goal as a result of an influx of immigrants, leaving Los Angeles scrambling to respond. All in all, the photos for the Los Angeles Daily News provide a story without words that illustrate America’s effort to rebuild a broken economy and society.</p>
          </note>
          
