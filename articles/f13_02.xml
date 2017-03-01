@@ -7,9 +7,8 @@
       <fileDesc>
          <titleStmt>
             <title>Chavez Ravine: From a Home to Home Plate</title>
-            <author>[Author 1]</author>
-            <author>[Author 2]</author>
-            <author>[Author 3]</author>
+            <author>Lucia Z.</author>
+            <author>Anonymous</author>
          </titleStmt>
          <publicationStmt>
             <publisher>Colleen Jaurretche</publisher>
@@ -46,8 +45,8 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="artsandculture">[Article title], [Placename]</placeName>
-            <geo>[-117.2712717 32.8328112]</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <placeName type="arts and culture">[Article title], [Placename]</placeName>
+            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>[Brief description, quote, or summary here.]</p>
          </note>
          
