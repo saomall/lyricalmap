@@ -45,7 +45,7 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="arts and culture">Will Rogers and "The House that Jokes Built", Beverly Hills</placeName>
-            <geo>-118.51254519999998 34.0549447</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <geo>-118.249453 34.034457</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Hollywood fell in love with cowboy who moved out west. Many found it unique that he did not abandon his roots, but instead he incorporated them into his new life. As a humorist, actor, political satirist, newspaper columnist, author, radio broadcaster, and more, Will Rogers remains a beloved figure in America. He impacted a wide range of audiences during and long after his lifetime, profoundly shaping the public’s opinion. “The House That Jokes Built” reflects Rogers’ cowboy lifestyle inside and out, and for years the public has enjoyed the luxury of seeing a more personal side of Rogers inside his home. Everyone loved the cowboy, and the cowboy loved everyone: as Rogers recalls, “I never met a man I didn’t like.”</p>
          </note>
          
