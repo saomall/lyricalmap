@@ -51,7 +51,8 @@
          
          <div type="bibliography">
             <listBibl><!-- At least one of your citations should be for the object(s) your are writing about -->
-               <bibl>[Citation 1...]</bibl>
+               <bibl>Heap of Elephant Bones, La Brea Tar Pits, Collection of California postcards (Collection 1351). UCLA Library Special Collections, Charles E.
+Young Research Library, UCLA.</bibl>
                <bibl>[Citation 2...]</bibl>
             </listBibl>
          </div>
@@ -59,8 +60,8 @@
          <div type="images">
             <figure xml:id="fig1">
                <graphic url="../images/la_brea.jpg"/>
-               <head></head>
-               <note type="attribution">[Creator], [date]. Image courtesy of [UCLA Library Special Collections].</note>
+               <head>Heap of Elephant Bones, La Brea Tar Pits</head>
+               <note type="attribution">Postcards, 1830s. Image courtesy of UCLA Library Special Collections.</note>
                <figDesc>This postcard portrays the elephant remains that were found in Pit 9 at the La Brea Tar pits.</figDesc>
             </figure>
             
