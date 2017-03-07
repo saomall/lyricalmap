@@ -42,7 +42,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts and culture">The 19th Academy Awards, Downtown Los Angeles</placeName>
+            <placeName type="arts and culture">The 19th Academy Awards, Shrine Auditorium</placeName>
             <geo>-118.28127169999999 34.02398579999999</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Deep within UCLA Special Collections lies a program from the 19th Annual Academy Awards, universally known as “The Oscars”. Within its pages, the program contains the names of the Academy’s officers and Board of Governors, the master of ceremonies, celebrity presenters, and award nominees. Comedian and actor Jack Benny was the emcee of the 19th Awards ceremony, which took place on March 13, 1947. Benny was accompanied by celebrity presenters such as Ronald Reagan, Shirley Temple, and Frank Sinatra.</p>
          </note>
