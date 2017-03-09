@@ -68,12 +68,18 @@
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="../images/nameofimagefile.jpg"/>
-               <head>[Image title here]</head>
-               <note type="attribution">[Creator], [date]. Image courtesy of [UCLA Library Special Collections].</note>
-               <figDesc>[visual description of the image here. this is not a caption! describe the image briefly for the sight-impaired. it will be read aloud by screen readers.]</figDesc>
+               <graphic url="../images/hollywood_plaza_brochure.jpg"/>
+               <head>Hollywood Plaza Hotel Brochure</head>
+               <note type="attribution">Federal Writers' Project of California, 1930-1942. Image courtesy of [UCLA Library Special Collections].</note>
+               <figDesc>Unfolded brochure featuring a map, information about the hotel and a cartoon image of the hotel under a script that reads The Hollywood Plaza Hotel and Cinnabar Restaurant in the heart of Hollywood.</figDesc>
             </figure>
-            
+            <figure xml:id="fig1">
+               <graphic url="../images/hollywood_plaza_brochure_2.jpg"/>
+               <head>Hollywood Plaza Hotel Brochure</head>
+               <note type="attribution">Federal Writers' Project of California, 1930-1942. Image courtesy of [UCLA Library Special Collections].</note>
+               <figDesc>Unfolded brochure feating a map and pictures of the inside of the hotel.</figDesc>
+            </figure>
+		 
          </div>
       </back>
    </text>
