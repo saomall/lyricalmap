@@ -59,6 +59,7 @@
                <bibl>"LA Aqueduct Centennial | Los Angeles Department of Water and Power." LA Aqueduct Centennial. 11 Mar. 2014.</bibl>
                <bibl>"Owens River Valley." Owens River Valley. N.p., n.d. Web. 11 Mar. 2014.</bibl>
                <bibl>Walton, John. Western Times and Water Wars. Berkeley and Los Angeles, California - Oxford, England: University of California Press, 1992.</bibl>
+		    <bibl>Photograph album of Owens Valley (Collection 94/194). UCLA Library Special Collections, Charles E. Young Research Library, UCLA.</bibl>
             </listBibl>
          </div>
          
@@ -66,7 +67,7 @@
             <figure xml:id="fig1">
                <graphic url="../images/nameofimagefile.jpg"/>
                <head>[Image title here]</head>
-               <note type="attribution">[Creator], [date]. Image courtesy of [UCLA Library Special Collections].</note>
+               <note type="attribution">Nathan William Stonewall, 1905-1906. Image courtesy of UCLA Library Special Collections.</note>
                <figDesc>[visual description of the image here. this is not a caption! describe the image briefly for the sight-impaired. it will be read aloud by screen readers.]</figDesc>
             </figure>
             
