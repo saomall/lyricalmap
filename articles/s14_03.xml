@@ -18,7 +18,7 @@
             <relatedItem>
                <bibl>
                   <author></author>
-                  <title>[Name of the archival collection], UCLA Library Special Collections</title>
+                  <title>Mayor Tom Bradley Administration papers, UCLA Library Special Collections</title>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -55,19 +55,42 @@
          
          <div type="bibliography">
             <listBibl><!-- At least one of your citations should be for the object(s) your are writing about -->
-               <bibl>[Citation 1...]</bibl>
-               <bibl>[Citation 2...]</bibl>
+               <bibl>Skid Row 1983, Mayor Tom Bradley Administration papers (Collection 293). UCLA Library Special Collections, Charles E. Young Research Library, UCLA.</bibl>
             </listBibl>
          </div>
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="../images/nameofimagefile.jpg"/>
-               <head>[Image title here]</head>
-               <note type="attribution">[Creator], [date]. Image courtesy of [UCLA Library Special Collections].</note>
-               <figDesc>[visual description of the image here. this is not a caption! describe the image briefly for the sight-impaired. it will be read aloud by screen readers.]</figDesc>
+               <graphic url="../images/skid_row_dev_1.jpg"/>
+               <head>Skid Row Development Report</head>
+               <note type="attribution">Los Angeles (Calif). Office of the Mayor, 1920-1993. Image courtesy of UCLA Library Special Collections.</note>
+               <figDesc>Cover of Skid Row Development Report with image of a man feeding a bird. The report covers the years 1980-1982</figDesc>
             </figure>
-            
+            <figure xml:id="fig2">
+               <graphic url="../images/skid_row_dev_2.jpg"/>
+               <head>Skid Row Development Reportd</head>
+               <note type="attribution">Los Angeles (Calif). Office of the Mayor, 1920-1993. Image courtesy of UCLA Library Special Collections.</note>
+               <figDesc>Title page of Skid Row Development Corporation Report 1980-1982. Text ontop of an image of two peole sitting, potentially sleeping in a doorway.</figDesc>
+            </figure>
+            <figure xml:id="fig3">
+               <graphic url="../images/skid_row_dev_3.jpg"/>
+               <head>Skid Row Development Report</head>
+               <note type="attribution">Los Angeles (Calif). Office of the Mayor, 1920-1993. Image courtesy of UCLA Library Special Collections.</note>
+               <figDesc>Message from the President in the Skid Row Development Report. Also contains image of President Frank Rice Thomas Dunphy.</figDesc>   
+            </figure>
+            <figure xml:id="fig4">
+               <graphic url="../images/skid_row_dev_4.jpg"/>
+               <head>Skid Row Development Report</head>
+               <note type="attribution">Los Angeles (Calif). Office of the Mayor, 1920-1993. Image courtesy of UCLA Library Special Collections.</note>
+               <figDesc>Message from the Executive Director. Also includes an image of Martha Brown Hicks and Gilbert Lindsay.</figDesc>
+            </figure>
+               <figure xml:id="fig5">
+               <graphic url="../images/skid_row_dev_5.jpg"/>
+               <head>Skid Row Development Report</head>
+               <note type="attribution">Los Angeles (Calif). Office of the Mayor, 1920-1993. Image courtesy of UCLA Library Special Collections.</note>
+               <figDesc>Report on the current status of projects. Images of a completed building on one page and an image of an artist's rendering for a project on the other page.</figDesc>
+            </figure>
+		 
          </div>
       </back>
    </text>
