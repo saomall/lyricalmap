@@ -47,7 +47,7 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="politics and society">Politics and Society: The Watts Towers, Watts Tower</placeName>
-            <geo>118.24194569999997 33.9388723</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <geo>118.24191229999997 33.9388578</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>This is where the Watts Towers are to this day.The location is only a few blocks from the center of the Watts Riots of 1965,and at the time, the surrounding neighborhoods and buildings were destroyed and vandalized but the towers remained standing. It is now viewed as a monument of the community’s resilience and creativity.</p>
          </note>
          
