@@ -53,7 +53,7 @@
          
          <div type="bibliography">
             <listBibl><!-- At least one of your citations should be for the object(s) your are writing about -->
-               <bibl>Los Angeles Staff. <ref type="url" target="http://timelines.latimes.com/los-angeles-riots/."> </ref> “LA Riots: 24 Years Later.” Los Angeles Times. Apr. 28, 2016. Accessed Nov. 16, 2016.</bibl>
+               <bibl>Los Angeles Staff. <ref type="url" target="http://timelines.latimes.com/los-angeles-riots/.">“LA Riots: 24 Years Later.” </ref>  Los Angeles Times. Apr. 28, 2016. Accessed Nov. 16, 2016.</bibl>
                <bibl>[Citation 2...]</bibl>
             </listBibl>
          </div>
