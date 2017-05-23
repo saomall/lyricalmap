@@ -19,7 +19,7 @@
             <relatedItem>
                <bibl>
                   <author></author>
-                  <title>[Name of the archival collection], UCLA Library Special Collections</title>
+                  <title>Miriam Matthews Photography Collection, UCLA Library Special Collections</title>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -33,7 +33,7 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>[First paragraph of article text goes here...]</p>
+            <p>While searching through Miriam Matthews’ photo collection of Black pioneers in California, one might stumble across a of photograph of Jelly Roll Morton. The “creator of jazz” spent some time in L.A. composing a number of jazz hits. The jazz scene of L.A. focused on Central Avenue, an area downtown flourishing with African-American culture. Jelly Roll was a crucial part of the development of jazz in L.A., making him a qualified candidate to be featured in Matthews’ archive. Because of Central Avenue’s integral role in L.A.’s Black community and Jelly Roll Morton’s aid to the musical culture of jazz in L.A., it is important that this history was preserved in Miriam Matthews’ special collection.</p>
             <p>[Second paragraph of article text...]</p>
          </div>
       </body>
@@ -41,14 +41,14 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="[arts and culture]">[Article title], [Placename]</placeName>
-            <geo>[-117.2712717 32.8328112]</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>[Brief description, quote, or summary here.]</p>
+            <placeName type="[arts and culture]">Los Angeles Jazz Culture, Central Avenue Jazz Park</placeName>
+            <geo>-118.25622550000003 34.00677639999999</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Jazz has a long and rich history, especially in LA. This can be seen at Central Avenue Jazz Park, a prime location for jazz lovers in the Los Angeles area. Jelly Roll Morton has also been a huge contributor to the LA jazz culture.</p>
          </note>
          
          <div type="bibliography">
             <listBibl><!-- At least one of your citations should be for the object(s) your are writing about -->
-               <bibl>[Citation 1...]</bibl>
+               <bibl>"A King Of Jazz." American Heritage 45.4 (1994): 107. Academic Search Complete. Web. 19 Nov. 2016.</bibl>
                <bibl>[Citation 2...]</bibl>
             </listBibl>
          </div>
