@@ -51,7 +51,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="[arts and culture]">Los Angeles Jazz Culture, Central Avenue Jazz Park</placeName>
+            <placeName type="arts and culture">Los Angeles Jazz Culture, Central Avenue Jazz Park</placeName>
             <geo>-118.25622550000003 34.00677639999999</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Jazz has a long and rich history, especially in LA. This can be seen at Central Avenue Jazz Park, a prime location for jazz lovers in the Los Angeles area. Jelly Roll Morton has also been a huge contributor to the LA jazz culture.</p>
          </note>
