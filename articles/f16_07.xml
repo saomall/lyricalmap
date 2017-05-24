@@ -47,7 +47,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="[arts and culture]">The Fight for Power, UCLA Campbell Hall</placeName>
+            <placeName type="arts and culture">The Fight for Power, UCLA Campbell Hall</placeName>
             <geo>-118.44145100000003 34.073673</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>UCLA Campbell Hall Assassination</p>
          </note>
