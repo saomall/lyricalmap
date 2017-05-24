@@ -44,7 +44,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="[arts and culture]">Hispanic Education in East Los Angeles, Theodore Roosevelt High School</placeName>
+            <placeName type="arts and culture">Hispanic Education in East Los Angeles, Theodore Roosevelt High School</placeName>
             <geo>-118.211075 34.038338</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Roosevelt High School is centrally located in the Boyle Heights district of East LA.  Students at Roosevelt High School participated in multiple walk outs in the late 1960s. They organized rallies and groups in protest and drew up multiple propositions to achieve equal rights for hispanic students. Students aided in the writing of a Chicano school newspaper in an attempt to incorporate bilingual and bicultural education to ELA schools.</p>
          </note>
