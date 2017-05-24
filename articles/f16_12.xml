@@ -54,8 +54,11 @@
          
          <div type="bibliography">
             <listBibl><!-- At least one of your citations should be for the object(s) your are writing about -->
-               <bibl>[Citation 1...]</bibl>
-               <bibl>[Citation 2...]</bibl>
+               <bibl>Goldsmith, Gretchen. "Buisness as Usual", LA Reader. May 8, 1992. Print. UCLA Special Collections.</bibl>
+               <bibl>Green, Catherine. “LA Riots: Rebuild L.A.’s Ambitious Attempts to Revive the City.” <ref type="url" target="http://www.neontommy.com/news/2012/04/la-riots-rebuild-las-ambitious-attempts-revive-neighborhood"> USCAnnenbergMediaCenter.com. </ref> 24 April 2014.</bibl>
+	       <bibl>[Citation 2...]</bibl>
+	       <bibl>[Citation 2...]</bibl>
+	       <bibl>[Citation 2...]</bibl>
             </listBibl>
          </div>
          
