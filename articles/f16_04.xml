@@ -47,7 +47,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="[environment and science]">Smog Man, Broadway and 7th</placeName>
+            <placeName type="environment and science">Smog Man, Broadway and 7th</placeName>
             <geo>-118.25370980000002 34.0451302</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>The infamous Los Angeles “smog” finds Downtown pedestrians wiping tears from their eyes, with one man even wearing a mask to combat the high air pollution levels.</p>
          </note>
