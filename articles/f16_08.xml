@@ -47,7 +47,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="[politics and society">The Los Angeles Walkouts, Los Angeles School Unified School District</placeName>
+            <placeName type="politics and society">The Los Angeles Walkouts, Los Angeles School Unified School District</placeName>
             <geo>-118.2573392 34.056212</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Los Angeles Unified School District, LAUSD, is the largest public school system in California and the second largest in the nation. It serves over 640,000 students in about 900 schools. The district includes the city of Los Angeles as well as parts of 31 smaller municipalities plus some unincorporated sections of Southern California. It was founded in 1853 to increase the city's Academic performance and graduation rate. The interview is between Bill Owens, from LAUSD, and Reverend Mardirosian, in which Owens gains insight from the Reverend, who is the chairman of the Educational Issues Coordinating Committee. The Reverend informs Owens how the school officials could solve the issues between themselves and Mexican-American students, concerning the future of the Los Angeles City Schools.</p>
          </note>
