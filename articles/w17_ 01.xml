@@ -44,7 +44,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="[politics and society]">Watercolor of Manzanar, Little Tokyo</placeName>
+            <placeName type="politics and society">Watercolor of Manzanar, Little Tokyo</placeName>
             <geo>-118.2395052 34.0523392</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Little Tokyo, located in downtown Los Angeles, is an ethnically Japanese-American district. The demographics of Little Tokyo were formed by American politics especially during World War II. Its population, almost exclusively of Japanese descent, had been relocated to the Manzanar War Relocation Center. While this War Relocation Center was not in Little Tokyo, it significantly affected its population. After the war, this area had become repopulated and filled once again with a large Japanese- American population. Little Tokyo is the heart of the largest Japanese- American population in North America, making it especially significant.</p>
          </note>
