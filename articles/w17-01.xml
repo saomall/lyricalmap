@@ -46,13 +46,17 @@
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="politics and society">Watercolor of Manzanar, Little Tokyo</placeName>
             <geo>-118.2395052 34.0523392</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>[Brief description, quote, or summary here.]</p>
+            <p>Little Tokyo, located in downtown Los Angeles, is an ethnically Japanese-American district. The demographics of Little Tokyo were formed by American politics especially during World War II. Its population, almost exclusively of Japanese descent, had been relocated to the Manzanar War Relocation Center. While this War Relocation Center was not in Little Tokyo, it significantly affected its population. After the war, this area had become repopulated and filled once again with a large Japanese- American population. Little Tokyo is the heart of the largest Japanese- American population in North America, making it especially significant.</p>
          </note>
          
          <div type="bibliography">
             <listBibl><!-- At least one of your citations should be for the object(s) your are writing about -->
-               <bibl>[Citation 1...]</bibl>
-               <bibl>[Citation 2...]</bibl>
+               <bibl>Chiang, Connie Y. “Imprisoned Nature: Toward an Environmental History of the World War II Japanese American Incarceration.” Environmental History, vol. 15, no. 2, 2010, pp. 236-267.</bibl>
+               <bibl>Iwamura, Jane. “Critical Faith: Japanese Americans and the Birth of a New Civil Religion.” The Johns Hopkins University Press, vol. 59, no. 3, 2007, pp. 937-968.</bibl>
+		<bibl>Jenks, Hillary. “Bronzeville, Little Tokyo, and the Unstable Geography of Race in Post-World War II</bibl>
+		<bibl>Ladino, Jennifer K. "Mountains, Monuments, and Other Matter: Environmental Affects at Manzanar." Environmental Humanities, vol. 6, no.1, 2015, pp. 131-57.</bibl>
+		<bibl>Los Angeles.” Southern California Quarterly, vol. 93, no. 2, 2011, pp. 201–235.</bibl>
+		<bibl>Watercolor of Manzanar, War Relocation Center Records (Collection 122, Box 64), Library Special Collections, Charles E Young Research Library, UCLA</bibl>
             </listBibl>
          </div>
          
