@@ -44,8 +44,8 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts and culture">[Article title], [Placename]</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <placeName type="politics and society">Watercolor of Manzanar, Little Tokyo</placeName>
+            <geo>-118.2395052 34.0523392</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>[Brief description, quote, or summary here.]</p>
          </note>
          
