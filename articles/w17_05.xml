@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Selig-Jungle-Zoo</title>
+            <title>Selig-Jungle Zoo</title>
             <author>John Miller</author>
             <author>Joseph Phillips</author>
             <author>Qingyuan Wang</author>
@@ -49,7 +49,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="history">Selig-Jungle-Zoo, Montecito Heights</placeName>
+            <placeName type="history">Selig-Jungle Zoo, Montecito Heights</placeName>
             <geo>-118.200881 34.068472</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>These geographic coordinates are the location of the former entrance to the Selig-Jungle-Zoo.Two massive concrete statues of lions and elephants bordered the entrance and quickly became emblems of the zoo. Once home to exotic animals used for motion pictures, the land is now used as a recreational park.</p>
          </note>
