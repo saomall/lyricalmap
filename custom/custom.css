@@ -7,6 +7,14 @@
     font-weight: 400
 }
 
+#issue {
+    #menu {
+        .dropdown-submenu {
+            position: relative;
+            .dropdown-menu {
+		max-height: 500px;
+	        overflow: auto;
+
 #article p, #article p.pullquote {
     font-family: "Open Sans";
     font-size: 13px;

@@ -46,15 +46,15 @@
        "href"    : "",
        "partial" : "partials/menu/page.html"     },
 
+    {  "type"    : "sep",
+       "partial"  : "partials/menu/sep.html"     },
+    
     {  "type"       : "menu",
        "label"      : "Articles",
        "collection" : "collections/articles",
        "partial"    : "partials/menu/submenu.html",
        "item": {
             "href"  : "article/:i"              }},
-
-    {  "type"    : "sep",
-       "partial"  : "partials/menu/sep.html"     },
 
     {  "type"    : "page",
        "label"    : "Introduction",
